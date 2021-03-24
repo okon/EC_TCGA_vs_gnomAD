@@ -1,0 +1,309 @@
+testDonorPublicationID	project_id	race	SNP_ethnicity	primary_diagnosis
+TCGA_UCEC_001	TCGA-UCEC	not reported	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_002	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_003	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_004	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_005	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_006	TCGA-UCEC	white	not available	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_008	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_009	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_010	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_011	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_012	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_017	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_019	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_020	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_021	TCGA-UCEC	white	not available	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_023	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_027	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_028	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_029	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_031	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_034	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_035	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_036	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_039	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_040	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_041	TCGA-UCEC	not reported	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_042	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_045	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_047	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_050	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_051	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_052	TCGA-UCEC	white	not available	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_053	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_055	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_056	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_057	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_059	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_061	TCGA-UCEC	white	not available	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_062	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_063	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_064	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_066	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_067	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_068	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_070	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_071	TCGA-UCEC	white	not available	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_072	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_074	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_075	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_080	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_081	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_082	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_083	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_084	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_085	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_086	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_088	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_090	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_091	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_093	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_098	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_100	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_101	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_102	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_103	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_104	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_106	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_108	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_112	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_114	TCGA-UCEC	white	not available	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_115	TCGA-UCEC	white	European	Papillary serous cystadenocarcinoma
+TCGA_UCEC_116	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_117	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_119	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_120	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_122	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_124	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_125	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_128	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_132	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_134	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_137	TCGA-UCEC	white	not available	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_138	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_140	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_141	TCGA-UCEC	white	European	Papillary serous cystadenocarcinoma
+TCGA_UCEC_142	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_143	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_144	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_145	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_147	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_149	TCGA-UCEC	white	not available	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_152	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_156	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_160	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_161	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_163	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_166	TCGA-UCEC	white	not available	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_167	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_168	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_169	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_172	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_176	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_177	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_179	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_180	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_182	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_184	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_185	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_186	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_187	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_191	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_193	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_194	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_196	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_197	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_199	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_202	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_204	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_206	TCGA-UCEC	white	not available	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_209	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_218	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_219	TCGA-UCEC	white	European	Carcinoma, undifferentiated, NOS
+TCGA_UCEC_220	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_222	TCGA-UCEC	white	not available	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_224	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_225	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_226	TCGA-UCEC	white	not available	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_229	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_230	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_231	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_232	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_234	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_235	TCGA-UCEC	white	not available	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_237	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_239	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_240	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_241	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_242	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_245	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_247	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_248	TCGA-UCEC	not reported	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_249	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_250	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_251	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_252	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_253	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_254	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_255	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_256	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_259	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_260	TCGA-UCEC	white	European	Papillary serous cystadenocarcinoma
+TCGA_UCEC_261	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_262	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_263	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_265	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_266	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_270	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_272	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_274	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_275	TCGA-UCEC	white	not available	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_278	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_285	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_286	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_287	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_288	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_290	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_291	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_292	TCGA-UCEC	white	not available	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_293	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_294	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_295	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_296	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_300	TCGA-UCEC	not reported	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_301	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_302	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_303	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_304	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_307	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_309	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_310	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_311	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_313	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_315	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_316	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_318	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_320	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_321	TCGA-UCEC	white	not available	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_323	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_324	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_325	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_326	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_327	TCGA-UCEC	white	not available	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_328	TCGA-UCEC	white	not available	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_330	TCGA-UCEC	white	not available	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_331	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_333	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_334	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_335	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_337	TCGA-UCEC	white	not available	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_339	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_340	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_342	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_344	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_345	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_346	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_347	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_348	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_349	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_350	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_351	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_353	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_356	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_358	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_359	TCGA-UCEC	white	European	Papillary serous cystadenocarcinoma
+TCGA_UCEC_360	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_362	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_363	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_364	TCGA-UCEC	white	not available	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_365	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_371	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_377	TCGA-UCEC	white	not available	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_379	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_382	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_384	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_386	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_387	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_388	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_396	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_397	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_398	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_401	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_402	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_405	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_408	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_410	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_411	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_413	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_414	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_416	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_421	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_422	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_423	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_424	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_428	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_430	TCGA-UCEC	black or african american	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_432	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_435	TCGA-UCEC	white	not available	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_437	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_438	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_439	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, secretory variant
+TCGA_UCEC_440	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_442	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_443	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_444	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_445	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_446	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_448	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_449	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_450	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_451	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_453	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_455	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_456	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_461	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_464	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_465	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_467	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_469	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_470	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_471	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_472	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_473	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_475	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_477	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_479	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_480	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_481	TCGA-UCEC	american indian or alaska native	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_482	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_485	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_486	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_488	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_489	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_490	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_492	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_496	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_498	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_499	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_502	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_503	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_505	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_506	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_508	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_509	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_510	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_512	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_514	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_515	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_517	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_519	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_523	TCGA-UCEC	white	European	Serous cystadenocarcinoma, NOS
+TCGA_UCEC_524	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_526	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_527	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_528	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_530	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_533	TCGA-UCEC	white	not available	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_535	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
+TCGA_UCEC_536	TCGA-UCEC	white	European	Endometrioid adenocarcinoma, NOS
