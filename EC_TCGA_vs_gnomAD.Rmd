@@ -576,7 +576,7 @@ df_TCGA_merged <- df_TCGA_merged_temp %>%
     freq_AF_eu = round(sum_AC_eu/sum_AN_eu,4)) 
 ```
 
-Final carrier frequencies table for gnomAD genomes:  
+Final carrier frequencies table for TCGA European cases:  
 ```{r TCGA_final_table}
 kable(df_TCGA_merged) %>% 
   kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
@@ -587,7 +587,7 @@ df_TCGA_merged %>%
 ```
 
 ```{r TCGA_gnomAD_final_table}
-df_gnomad_merged %>%
+final_table_TCGA_gnomAD <- df_gnomad_merged %>%
   left_join(df_TCGA_merged) %>%
   select(SYMBOL,carrier_eu, sum_hom_eu, total_eu, freq_carrier_eu,carrier_nfe,sum_hom_nfe,total_nfe,freq_carrier_nfe) %>%
   dplyr::rename(Gene = SYMBOL, 
@@ -597,7 +597,13 @@ df_gnomad_merged %>%
                 N_total_gnomAD = total_nfe, Freq_gnomAD = freq_carrier_nfe) %>%
   mutate(Freq_TCGA = Freq_TCGA*100, Freq_gnomAD = Freq_gnomAD*100) %>%
   arrange(-N_carrier_TCGA,-Freq_TCGA,-N_carrier_gnomAD, Gene) %>%
-  replace(is.na(.),0) %>%
+  replace(is.na(.),0) 
+
+
+kable(final_table_TCGA_gnomAD) %>% 
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+
+final_table_TCGA_gnomAD %>%
   write_tsv(.,"./tables/TCGA_gnomAD_total_counts_and_freq.tsv")
 
 ```
